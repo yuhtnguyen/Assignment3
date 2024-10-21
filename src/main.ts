@@ -9,7 +9,7 @@ async function bootstrap() {
   app.useGlobalPipes(new ValidationPipe());
 
   const config = new DocumentBuilder()
-    .setTitle('QE170097 - Students API')
+    .setTitle('QE170033 - Students API')
     .setDescription('Assignment 3 - API CRUD WITH SPECIFICATION')
     .setVersion('2.0')
     .build();

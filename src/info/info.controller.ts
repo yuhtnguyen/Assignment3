@@ -8,8 +8,8 @@ export class InfoController {
   async getInfo() {
     return {
       data: {
-        fullName: 'Đinh Quốc Chương',
-        studentCode: 'QE170097',
+        fullName: 'Nguyễn Thị Thúy',
+        studentCode: 'QE170033',
       },
     };
   }
